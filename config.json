@@ -33,12 +33,12 @@
     "PASSWORD": "",
     "OTPKEY": "",
     "BOTNAME": "BOT_NAME",
-    "PREFIX": "ADD_PREFIX",
+    "PREFIX": ".",
     "ADMINBOT": [
-        "OWNER_UID"
+        "100001749311229"
     ],
     "NDH": [
-        "OWNER_UID"
+        "100001749311229"
     ],
     "DATABASE": {
         "sqlite": {
